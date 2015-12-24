@@ -1,0 +1,34 @@
+{
+  "name": "pathize-url",
+  "version": "0.0.0",
+  "description": "Parse URL and return it as result of path.parse",
+  "license": "MIT",
+  "repository": "ragingwind/pathize-url",
+  "author": {
+    "name": "ragingwind",
+    "email": "ragingwind@gmail.com",
+    "url": "ragingwind.me"
+  },
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.3.0",
+    "xo": "^0.10.0"
+  },
+  "xo": {
+    "ignores": [
+      "test.js"
+    ]
+  }
+}
