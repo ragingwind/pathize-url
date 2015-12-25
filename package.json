@@ -1,6 +1,6 @@
 {
   "name": "pathize-url",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Parse URL and return it as result of path.parse",
   "license": "MIT",
   "repository": "ragingwind/pathize-url",
