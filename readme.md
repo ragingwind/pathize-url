@@ -19,7 +19,7 @@ pathizeUrl('http://ragingwind.me/blogs/assets/profile.png');
 //=>
 {
 	root: 'ragingwind.me',  // host, hostname
-	dir: '/blogs/assets',   // dir name of pathname
+	dir: 'blogs/assets',    // dir name of pathname, first seperate will be removed
 	base: 'profile.png',    // the last of the path
 	ext: '.png',            // ext of the last of the path
 	name: 'profile',        // the name of the last of the path
