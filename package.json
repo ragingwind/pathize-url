@@ -19,7 +19,9 @@
     "index.js"
   ],
   "keywords": [
-    ""
+    "path",
+    "url",
+    "pathize"
   ],
   "dependencies": {},
   "devDependencies": {
